@@ -2,6 +2,7 @@
 - 👀 I’m interesting. So are you.
 - 🌱 I’m currently learning HTML, CSS/SASS, Javascript, next in line node.js, react.
 - 💞️ I’m looking to collaborate on meaningful projects.
+- ✒ My blog is @ https://clementbenezech.hashnode.dev/
 - 📫 How to reach me: clement.benezech (at) gmail.com
 
 <!---
