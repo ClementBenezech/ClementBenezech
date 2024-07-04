@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ClementBenezech
-- 🌱 I’m currently mostly focused on React and Typescript based apps.
+- ⚛️ I’m currently mostly focused on React and Typescript based apps.
 - 💞️ I’m looking to collaborate on meaningful projects.
-- ✒ My blog is @ https://clementbenezech.hashnode.dev/
-- 📫 How to reach me: clement.benezech (at) gmail.com
+- 📫 How to reach me: clement.benezech (at) gmail.com.
+- 🎨 Portfolio: https://clementbenezech.vercel.app/
 
 <!---
 ClementBenezech/ClementBenezech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
